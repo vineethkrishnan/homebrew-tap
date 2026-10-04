@@ -1,8 +1,8 @@
 class Regrow < Formula
   desc "Read-only recovery of deleted files on macOS"
   homepage "https://github.com/vineethkrishnan/homebrew-tap"
-  url "https://github.com/vineethkrishnan/homebrew-tap/releases/download/regrow-v0.7.0/regrow-0.7.0-macos-universal.tar.gz"
-  sha256 "9c28283f0bc127209d7510f91905217a7f14499af6ad8251a6bf7856125b65e7"
+  url "https://github.com/vineethkrishnan/homebrew-tap/releases/download/regrow-v0.8.0/regrow-0.8.0-macos-universal.tar.gz"
+  sha256 "842b64131bd327a28406a1e59c3627da016dea8a5744dc683b0eb07750ff0139"
   license :cannot_represent
 
   depends_on macos: :sonoma
